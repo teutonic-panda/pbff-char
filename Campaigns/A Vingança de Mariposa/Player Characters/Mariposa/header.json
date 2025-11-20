@@ -1,0 +1,84 @@
+[
+  {
+		"id": "CAB00",
+		"nome": "Nome",
+		"cabecalho": null,
+		"descricao": "Mariposa (Ceres)",
+		"anexo": null,
+		"referencia": null,
+		"origem": "padrão"
+	},
+  {
+		"id": "CAB01",
+		"nome": "Jogador",
+		"cabecalho": null,
+		"descricao": "Panda",
+		"anexo": null,
+		"referencia": null,
+		"origem": "padrão"
+	},
+  {
+		"id": "CAB02",
+		"nome": "Raça",
+		"cabecalho": null,
+		"descricao": "Qareen das Trevas",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.32",
+		"origem": "padrão"
+	},
+  {
+		"id": "CAB03",
+		"nome": "Origem",
+		"cabecalho": null,
+		"descricao": "Escravo",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.95",
+		"origem": "padrão"
+	},
+  {
+		"id": "CAB04",
+		"nome": "Classe",
+		"cabecalho": null,
+		"descricao": {
+      "classe01": {
+        "id": "CLA-PB-000",
+        "nome": "classe01",
+        "cabecalho": "Variante do Caçador",
+        "descricao": "Predador",
+        "anexo": null,
+        "referencia": "https://pandaboff.blogspot.com/2024/10/predador-o-eliminador-de-presas-classe.html",
+        "origem": "padrão"
+      },
+      "classe02": {
+        "id": "CLA011",
+        "nome": "classe02",
+        "cabecalho": null,
+        "descricao": "Ladino",
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.78",
+        "origem": "nível 7"
+      }
+    },
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.32",
+		"origem": "padrão"
+	},
+  {
+		"id": "CAB05",
+		"nome": "Nível",
+		"cabecalho": "Predadora 11/Ladina 3",
+		"descricao": 14,
+		"anexo": null,
+		"referencia": null,
+		"origem": "padrão"
+	},
+  {
+		"id": "CAB06",
+		"nome": "Divindade",
+		"cabecalho": null,
+		"descricao": "Hynin",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.104",
+		"origem": "padrão"
+	}
+]
