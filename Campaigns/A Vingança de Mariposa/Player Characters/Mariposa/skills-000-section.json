@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ATR00",
+    "tipo": "sessão",
+    "nome": "Força",
+    "cabecalho": null,
+    "descricao": {
+      "subitem01": {
+        "id": "ATR00-MAR-000",
+        "nome": "Desejo de Liberdade",
+        "tipo": "sessão",
+        "cabecalho": null,
+        "descricao": [
+          {
+            "id": "PER019-MAR-000",
+            "nome": "Luta (desejo de liberdade)",
+            "cabecalho": null,
+            "descricao": null,
+            "anexo": null,
+            "referencia": "T20 1.2.1, p.127",
+            "origem": "Origem(Escravo)"
+          }
+        ],
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.96",
+        "origem": "padrão"
+      }
+    },
+    "anexo": null,
+    "referencia": "T20 1.2.1, p.23",
+    "origem": "padrão"
+  },
+  {
+    "id": "ATR01",
+    "nome": "Destreza",
+    "tipo": "sessão",
+    "cabecalho": null,
+    "descricao": {
+      "subitem01": {
+        "id": "ATR01-MAR-000",
+        "nome": "Especialista",
+        "tipo": "sessão",
+        "cabecalho": null,
+        "descricao": [
+          {
+            "id": "PER005-MAR-002",
+            "nome": "Cavalgar (especialista)",
+            "cabecalho": null,
+            "descricao": null,
+            "anexo": null,
+            "referencia": "T20 1.2.1, p.122",
+            "origem": "Classe (Ladino)"
+          },
+          {
+            "id": "PER011-MAR-003",
+            "nome": "Furtividade (especialista)",
+            "cabecalho": null,
+            "descricao": null,
+            "anexo": null,
+            "referencia": "T20 1.2.1, p.125",
+            "origem": "Classe (Ladino)"
+          },
+          {
+            "id": "PER026-MAR-004",
+            "nome": "Reflexos (especialista)",
+            "cabecalho": null,
+            "descricao": null,
+            "anexo": null,
+            "referencia": "T20 1.2.1, p.128",
+            "origem": "Classe (Ladino)"
+          }
+        ],
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.79",
+        "origem": "Classe (Ladino)"
+      }
+    },
+    "anexo": null,
+    "referencia": "T20 1.2.1, p.23",
+    "origem": "padrão"
+  },
+  {
+    "id": "ATR02",
+    "nome": "Constituição",
+    "tipo": "sessão",
+    "cabecalho": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": "T20 1.2.1, p.23",
+    "origem": "padrão"
+  },
+  {
+    "id": "ATR03",
+    "nome": "Inteligência",
+    "tipo": "sessão",
+    "cabecalho": null,
+    "descricao": {
+      "subitem01": [
+        {
+          "id": "ATR03-MAR-000",
+          "nome": "Ofícios",
+          "tipo": "sessão",
+          "cabecalho": null,
+          "descricao": [
+            {
+              "subitem01": [
+                {
+                  "id": "PER-MAR-000",
+                  "nome": "Cozinheira",
+                  "cabecalho": null,
+                  "descricao": null,
+                  "anexo": null,
+                  "referencia": "T20 1.2.1, p.127",
+                  "origem": "padrão"
+                }
+              ],
+              "subitem02": [
+                {
+                  "id": "PER-MAR-001",
+                  "nome": "Alquimista",
+                  "cabecalho": null,
+                  "descricao": null,
+                  "anexo": null,
+                  "referencia": "T20 1.2.1, p.127",
+                  "origem": "padrão"
+                }
+              ]
+            }
+          ],
+          "anexo": null,
+          "referencia": "T20 1.2.1, p.127",
+          "origem": "padrão"
+        }
+      ],
+      "subitem02": [
+        {
+          "id": "ATR03-MAR-001",
+          "nome": "Especialista",
+          "tipo": "sessão",
+          "cabecalho": null,
+          "descricao": [
+            {
+              "subitem01": [
+                {
+                  "id": "PER-MAR-000-ESP",
+                  "nome": "Cozinheira (Especialista)",
+                  "cabecalho": null,
+                  "descricao": null,
+                  "anexo": null,
+                  "referencia": "T20 1.2.1, p.127",
+                  "origem": null
+                }
+              ]
+            }
+          ],
+          "anexo": null,
+          "referencia": "T20 1.2.1, p.79",
+          "origem": "Classe (Ladino)"
+        }
+      ]
+    },
+    "anexo": null,
+    "referencia": "T20 1.2.1, p.23",
+    "origem": "padrão"
+  },
+  {
+    "id": "ATR04",
+    "nome": "Sabedoria",
+    "tipo": "sessão",
+    "cabecalho": null,
+    "descricao": {
+      "subitem01": {
+        "id": "ATR04-MAR-000",
+        "nome": "Especialista",
+        "cabecalho": null,
+        "descricao": [
+          {
+            "id": "PER028-MAR-005",
+            "nome": "Sobrevivência",
+            "cabecalho": null,
+            "descricao": null,
+            "anexo": null,
+            "referencia": "T20 1.2.1, p.129",
+            "origem": null
+          }
+        ],
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.79",
+        "origem": "Classe (Ladino)"
+      }
+    },
+    "anexo": null,
+    "referencia": "T20 1.2.1, p.23",
+    "origem": "padrão"
+  },
+  {
+    "id": "ATR05",
+    "nome": "Carisma",
+    "tipo": "sessão",
+    "cabecalho": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": "T20 1.2.1, p.23",
+    "origem": "padrão"
+  }
+]
