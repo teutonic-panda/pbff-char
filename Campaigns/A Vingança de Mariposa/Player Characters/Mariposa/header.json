@@ -37,28 +37,37 @@
 	},
   {
 		"id": "CAB04",
-		"nome": "Classe",
+		"nome": "Classes e Distinções",
 		"cabecalho": null,
 		"descricao": {
-      "classe01": {
-        "id": "CLA-PB-000",
-        "nome": "classe01",
-        "cabecalho": "Variante do Caçador",
-        "descricao": "Predador",
-        "anexo": null,
-        "referencia": "https://pandaboff.blogspot.com/2024/10/predador-o-eliminador-de-presas-classe.html",
-        "origem": "padrão"
-      },
-      "classe02": {
-        "id": "CLA011",
-        "nome": "classe02",
-        "cabecalho": null,
-        "descricao": "Ladino",
-        "anexo": null,
-        "referencia": "T20 1.2.1, p.78",
-        "origem": "nível 7"
-      }
-    },
+      		"classe01": {
+        		"id": "CLA-PB-000",
+        		"nome": "classe01",
+        		"cabecalho": "Variante do Caçador",
+        		"descricao": "Predador",
+        		"anexo": null,
+        		"referencia": "https://pandaboff.blogspot.com/2024/10/predador-o-eliminador-de-presas-classe.html",
+        		"origem": "padrão"
+      		},
+      		"classe02": {
+        		"id": "CLA011",
+        		"nome": "classe02",
+        		"cabecalho": null,
+        		"descricao": "Ladino",
+        		"anexo": null,
+        		"referencia": "T20 1.2.1, p.78",
+        		"origem": "nível 7"
+      		},
+			"distincao01": {
+				"id": "DTOF011",
+        		"nome": "distinção01",
+        		"cabecalho": null,
+        		"descricao": "Vigilante Mascarado",
+        		"anexo": "2 Poderes",
+        		"referencia": "Distinções Oficiais, p.30",
+        		"origem": "Side-Quest"
+			}
+    	},
 		"anexo": null,
 		"referencia": "T20 1.2.1, p.32",
 		"origem": "padrão"
