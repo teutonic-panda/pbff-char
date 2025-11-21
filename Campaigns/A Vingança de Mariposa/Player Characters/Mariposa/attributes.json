@@ -1,0 +1,56 @@
+[
+  {
+        "id": "ATR00",
+        "nome": "Força",
+        "cabecalho": null,
+        "descricao": 6,
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.23",
+        "origem": "padrão"
+    },
+    {
+        "id": "ATR01",
+        "nome": "Destreza",
+        "cabecalho": null,
+        "descricao": 4,
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.23",
+        "origem": "padrão"
+    },
+    {
+        "id": "ATR02",
+        "nome": "Constituição",
+        "cabecalho": null,
+        "descricao": 4,
+        "anexo": "+2 via item mágico",
+        "referencia": "T20 1.2.1, p.23",
+        "origem": "padrão"
+    },
+    {
+        "id": "ATR03",
+        "nome": "Inteligência",
+        "cabecalho": null,
+        "descricao": 5,
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.23",
+        "origem": "padrão"
+    },
+    {
+        "id": "ATR04",
+        "nome": "Sabedoria",
+        "cabecalho": null,
+        "descricao": 1,
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.23",
+        "origem": "padrão"
+    },
+    {
+        "id": "ATR05",
+        "nome": "Carisma",
+        "cabecalho": null,
+        "descricao": 3,
+        "anexo": null,
+        "referencia": "T20 1.2.1, p.23",
+        "origem": "padrão"
+    }
+]
