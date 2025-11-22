@@ -1,0 +1,83 @@
+[
+  {
+    "id": "STANDARD OBJECT",
+    "nome": null,
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "PER009",
+    "nome": "Enganação",
+    "tipo": "skill_bonus",
+    "descricao": 2,
+    "anexo": "+2 por Golpista Divino",
+    "referencia": null,
+    "origem": "Golpista Divino"
+  },
+  {
+    "id": "PER011",
+    "nome": "Furtividade",
+    "tipo": "skill_bonus",
+    "descricao": 7,
+    "anexo": "+2 de Traje das Sombras e +5 de Manto Élfico",
+    "referencia": null,
+    "origem": "Itens e Poderes"
+  },
+  {
+    "id": "PER010",
+    "nome": "Fortitude",
+    "tipo": "skill_bonus",
+    "descricao": 3,
+    "anexo": "+2 de Vitalidade e +1 de símbolo sagrado",
+    "referencia": null,
+    "origem": "Itens e Poderes"
+  },
+  {
+    "id": "PER013",
+    "nome": "Iniciativa",
+    "tipo": "skill_bonus",
+    "descricao": 2,
+    "anexo": "+2 de Saque Rápido",
+    "referencia": null,
+    "origem": "Poder"
+  },
+  {
+    "id": "PER014",
+    "nome": "Intimidação",
+    "tipo": "skill_bonus",
+    "descricao": 2,
+    "anexo": "Traje das Sombras",
+    "referencia": null,
+    "origem": "Poder"
+  },
+  {
+    "id": "PER017",
+    "nome": "Jogatina",
+    "tipo": "skill_bonus",
+    "descricao": 2,
+    "anexo": "+2 de Golpista Divino",
+    "referencia": null,
+    "origem": "Poder Concedido"
+  },
+  {
+    "id": "PER018",
+    "nome": "Ladinagem",
+    "tipo": "skill_bonus",
+    "descricao": 2,
+    "anexo": "+2 de Golpista Divino",
+    "referencia": null,
+    "origem": "Pder concedido"
+  },
+  {
+    "id": "PER026",
+    "nome": "Reflexos",
+    "tipo": "skill_bonus",
+    "descricao": 1,
+    "anexo": "+1 de Símbolo Sagrado",
+    "referencia": null,
+    "origem": "Item"
+  }
+]
