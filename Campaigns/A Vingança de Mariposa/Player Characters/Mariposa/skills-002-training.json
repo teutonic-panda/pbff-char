@@ -1,0 +1,155 @@
+[
+  {
+    "id": "STANDARD OBJECT",
+    "nome": null,
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "PER001",
+    "nome": "Acrobacia",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER002",
+    "nome": "Adestramento",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER004",
+    "nome": "Atuação",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER005",
+    "nome": "Cavalgar",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER011",
+    "nome": "Furtividade",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER013",
+    "nome": "Iniciativa",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER014",
+    "nome": "Intimidação",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER018",
+    "nome": "Ladinagem",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER019",
+    "nome": "Luta",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER-MAR-000",
+    "nome": "Cozinheira",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER-MAR-000",
+    "nome": "Alquimista",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER023",
+    "nome": "Percepção",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER025",
+    "nome": "Pontaria",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER026",
+    "nome": "Reflexos",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER028",
+    "nome": "Sobrevivência",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  },
+  {
+    "id": "PER029",
+    "nome": "Vontade",
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": "Padrão"
+  }
+]
