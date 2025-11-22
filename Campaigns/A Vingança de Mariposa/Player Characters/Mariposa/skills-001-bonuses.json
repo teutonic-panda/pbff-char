@@ -72,6 +72,15 @@
     "origem": "Pder concedido"
   },
   {
+    "id": "PER019-MAR-000",
+    "nome": "Luta (Desejo de Liberdade)",
+    "tipo": "feat_skill_bonus",
+    "descricao": 5,
+    "anexo": "+5 em testes contra Agarrar",
+    "referencia": null,
+    "origem": "Poder de Origem"
+  },
+  {
     "id": "PER026",
     "nome": "Reflexos",
     "tipo": "skill_bonus",
