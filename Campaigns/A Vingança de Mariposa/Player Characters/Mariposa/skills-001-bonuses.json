@@ -9,31 +9,13 @@
     "origem": null
   },
   {
-    "id": "PER009",
-    "nome": "Enganação",
-    "tipo": "skill_bonus",
-    "descricao": 2,
-    "anexo": "+2 por Golpista Divino",
-    "referencia": null,
-    "origem": "Golpista Divino"
-  },
-  {
-    "id": "PER011",
-    "nome": "Furtividade",
-    "tipo": "skill_bonus",
-    "descricao": 7,
-    "anexo": "+2 de Traje das Sombras e +5 de Manto Élfico",
-    "referencia": null,
-    "origem": "Itens e Poderes"
-  },
-  {
     "id": "PER010",
     "nome": "Fortitude",
     "tipo": "skill_bonus",
-    "descricao": 3,
-    "anexo": "+2 de Vitalidade e +1 de símbolo sagrado",
+    "descricao": 2,
+    "anexo": "+2 de Vitalidade",
     "referencia": null,
-    "origem": "Itens e Poderes"
+    "origem": "Poderes"
   },
   {
     "id": "PER013",
@@ -45,33 +27,6 @@
     "origem": "Poder"
   },
   {
-    "id": "PER014",
-    "nome": "Intimidação",
-    "tipo": "skill_bonus",
-    "descricao": 2,
-    "anexo": "Traje das Sombras",
-    "referencia": null,
-    "origem": "Poder"
-  },
-  {
-    "id": "PER017",
-    "nome": "Jogatina",
-    "tipo": "skill_bonus",
-    "descricao": 2,
-    "anexo": "+2 de Golpista Divino",
-    "referencia": null,
-    "origem": "Poder Concedido"
-  },
-  {
-    "id": "PER018",
-    "nome": "Ladinagem",
-    "tipo": "skill_bonus",
-    "descricao": 2,
-    "anexo": "+2 de Golpista Divino",
-    "referencia": null,
-    "origem": "Pder concedido"
-  },
-  {
     "id": "PER019-MAR-000",
     "nome": "Luta (Desejo de Liberdade)",
     "tipo": "feat_skill_bonus",
@@ -81,12 +36,12 @@
     "origem": "Poder de Origem"
   },
   {
-    "id": "PER026",
-    "nome": "Reflexos",
+    "id": "PER029",
+    "nome": "Vontade",
     "tipo": "skill_bonus",
-    "descricao": 1,
-    "anexo": "+1 de Símbolo Sagrado",
+    "descricao": 2,
+    "anexo": "+2 de Vontade de Ferro",
     "referencia": null,
-    "origem": "Item"
+    "origem": "Poder"
   }
 ]
