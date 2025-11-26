@@ -1,0 +1,205 @@
+[
+  {
+    "id": "STANDARD OBJECT",
+    "nome": null,
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "VBS000",
+    "nome": "inspiração bárdica",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CKB-VBS000",
+        "nome": "checkbox",
+        "tipo": "checkbox",
+        "descricao": false,
+        "anexo": "por padrão, começa desligado",
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "PER*",
+        "nome": "todas as perícias",
+        "tipo": "bônus",
+        "descricao": 5,
+        "anexo": null,
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "PER000",
+        "nome": "defesa",
+        "tipo": "penalidade",
+        "descricao": -5,
+        "anexo": "inspiração não afeta a defesa",
+        "referencia": null,
+        "origem": null
+      }
+    ],
+    "anexo": "skellington consegue aumentar a inspiração dele em +1 além do normal",
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "VBS001",
+    "nome": "Traje das Sombras",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CKB-VBS001",
+        "nome": "checkbox",
+        "tipo": "checkbox",
+        "descricao": true,
+        "anexo": null,
+        "referencia": null,
+        "origem": null
+      },
+      {
+          "id": "PER011",
+          "nome": "Furtividade",
+          "tipo": "skill_bonus",
+          "descricao": 2,
+          "anexo": "+2 de Traje das Sombras",
+          "referencia": null,
+          "origem": "Itens e Poderes"
+      },
+      {
+        "id": "PER014",
+        "nome": "Intimidação",
+        "tipo": "skill_bonus",
+        "descricao": 2,
+        "anexo": "Traje das Sombras",
+        "referencia": null,
+        "origem": "Poder"
+      } 
+    ],
+    "anexo": "item mundano associado a um poder",
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "VBS002",
+    "nome": "Manto Élfico",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CKB-VBS002",
+        "nome": "checkbox",
+        "tipo": "checkbox",
+        "descricao": true,
+        "anexo": null,
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "PER011",
+        "nome": "Furtividade",
+        "tipo": "skill_bonus",
+        "descricao": 5,
+        "anexo": "+5 de Manto Élfico",
+        "referencia": null,
+        "origem": "Item Mágico"
+      }
+    ],
+    "anexo": "Acoplado ao Traje das Sombras",
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "VBS003",
+    "nome": "Símbolo Sagrado de \"Definitivamente Tenebra\"",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CKB-VBS003",
+        "nome": "checkbox",
+        "tipo": "checkbox",
+        "descricao": true,
+        "anexo": null,
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "PER010",
+        "nome": "Fortitude",
+        "tipo": "skill_bonus",
+        "descricao": 1,
+        "anexo": "+1 de símbolo sagrado",
+        "referencia": null,
+        "origem": "Itens e Poderes"
+      },
+      {
+        "id": "PER026",
+        "nome": "Reflexos",
+        "tipo": "skill_bonus",
+        "descricao": 1,
+        "anexo": "+1 de Símbolo Sagrado",
+        "referencia": null,
+        "origem": "Item"
+      },
+      {
+        "id": "PER029",
+        "nome": "Vontade",
+        "tipo": "skill_bonus",
+        "descricao": 1,
+        "anexo": "+1 de Símbolo Sagrado",
+        "referencia": null,
+        "origem": "Item"
+      }
+    ],
+    "anexo": null,
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "VBS004",
+    "nome": "Golpista Divino",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CKB-VBS004",
+        "nome": "checkbox",
+        "tipo": "checkbox",
+        "descricao": true,
+        "anexo": "o deus pode retirar esse bônus em caso de violação",
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "PER018",
+        "nome": "Ladinagem",
+        "tipo": "skill_bonus",
+        "descricao": 2,
+        "anexo": "+2 de Golpista Divino",
+        "referencia": null,
+        "origem": "Pder concedido"
+      },
+      {
+        "id": "PER017",
+        "nome": "Jogatina",
+        "tipo": "skill_bonus",
+        "descricao": 2,
+        "anexo": "+2 de Golpista Divino",
+        "referencia": null,
+        "origem": "Poder Concedido"
+      },
+      {
+        "id": "PER009",
+        "nome": "Enganação",
+        "tipo": "skill_bonus",
+        "descricao": 2,
+        "anexo": "+2 por Golpista Divino",
+        "referencia": null,
+        "origem": "Golpista Divino"
+      }
+    ],
+    "anexo": "Poder Concedido de Hynnin",
+    "referencia": null,
+    "origem": null
+  }
+]
