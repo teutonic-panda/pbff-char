@@ -1,0 +1,95 @@
+[
+  {
+    "id": "STANDARD OBJECT",
+    "nome": null,
+    "tipo": null,
+    "descricao": null,
+    "anexo": null,
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "CUR000",
+    "nome": "TC",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CUR000-carga",
+        "nome": null,
+        "tipo": null,
+        "descricao": 1000,
+        "anexo": "1000 TCs equivale a 1 de carga",
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "CUR000-MAR-quantia",
+        "nome": null,
+        "tipo": null,
+        "descricao": 0,
+        "anexo": null,
+        "referencia": null,
+        "origem": null
+      }
+    ],
+    "anexo": "tibar de cobre",
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "CUR001",
+    "nome": "T$",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CUR001-carga",
+        "nome": null,
+        "tipo": null,
+        "descricao": 1000,
+        "anexo": "1000 T$s equivale a 1 de carga",
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "CUR001-MAR-quantia",
+        "nome": null,
+        "tipo": null,
+        "descricao": 2,
+        "anexo": null,
+        "referencia": null,
+        "origem": null
+      }
+    ],
+    "anexo": "tibar",
+    "referencia": null,
+    "origem": null
+  },
+  {
+    "id": "CUR002",
+    "nome": "TO",
+    "tipo": null,
+    "descricao": [
+      {
+        "id": "CUR002-carga",
+        "nome": null,
+        "tipo": null,
+        "descricao": 1000,
+        "anexo": "1000 TOs equivale a 1 de carga",
+        "referencia": null,
+        "origem": null
+      },
+      {
+        "id": "CUR002-MAR-quantia",
+        "nome": null,
+        "tipo": null,
+        "descricao": 78,
+        "anexo": null,
+        "referencia": null,
+        "origem": null
+      }
+    ],
+    "anexo": "tibar de ouro",
+    "referencia": null,
+    "origem": null
+  }
+]
